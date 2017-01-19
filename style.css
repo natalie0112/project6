@@ -1,0 +1,37 @@
+h1 {
+   
+   text-align: center;
+   
+   color: red;
+   
+}
+   
+h2 {
+	
+	text-align: center;
+	
+	text-decoration: underline;
+	
+}   
+	
+p {
+
+	color: green;
+	
+	font-family: "Tahoma";
+	
+} 
+	
+ul {
+
+	font-style: italic;
+	
+} 
+	
+ol {
+
+	font-weight: bold;
+	
+	font-size: 20px;
+	
+}
